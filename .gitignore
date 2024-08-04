@@ -1,0 +1,6 @@
+*.sql
+*.csv
+*.pdf
+*.pkl
+*.jpg
+__pycache__/
