@@ -4,3 +4,4 @@
 *.pkl
 *.jpg
 __pycache__/
+venv/
